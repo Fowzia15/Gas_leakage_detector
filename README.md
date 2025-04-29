@@ -1,1 +1,1 @@
-# Gas_leakage_detector
+My project is an Arduino-based gas detector integrated with Blynk to display output, monitoring gas levels via a sensor on pin A0. If the sensor value exceeds 400, it triggers a red LED and buzzer, indicating a gas leak, while a green LED signals normal conditions, with status updates ("GAS LEAKING" or "NORMAL") sent to the Serial Monitor and Blynk app.
